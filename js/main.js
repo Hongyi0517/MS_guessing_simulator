@@ -14,6 +14,24 @@ let previousUnlimitedId = null;
 
 const input = $("#character-input");
 const datalist = $("#character-options");
+input.addEventListener("input", () => {
+  const keyword = input.value.trim();
+
+  datalist.innerHTML = "";
+
+  if (!keyword) return;
+
+  const matchedMonsters = monsters.filter(monster => {
+    return monster.name.includes(keyword) ||
+      (monster.aliases || []).some(alias => alias.includes(keyword));
+  });
+
+  for (const monster of matchedMonsters) {
+    const option = document.createElement("option");
+    option.value = monster.name;
+    datalist.append(option);
+  }
+});
 const form = $("#guess-form");
 const results = $("#results");
 const message = $("#message");
@@ -143,15 +161,13 @@ async function init() {
     monsters = data.monsters.filter(monster => monster.active);
     config = data.config;
     dailyConfig = data.dailyConfig;
+
     if (!monsters.length) throw new Error("目前沒有 active 設為 true 的角色。");
-    for (const monster of monsters) {
-      const option = document.createElement("option");
-      option.value = monster.name;
-      datalist.append(option);
-    }
+
     if (monsters.every(m => m.isDemo)) {
       showMessage(message, "目前載入的是示範角色，請替換成確認過的台版角色資料。");
     }
+
     startGame();
   } catch (error) {
     showMessage(message, error.message, true);
