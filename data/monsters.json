@@ -1861,6 +1861,920 @@
     "obtainMethod": "限定角色"
   },
   {
+    "id": "G_No.6284",
+    "name": "守護桃園的崑崙獸仙女 西王母",
+    "aliases": [
+      "西王母"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2015,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6153",
+    "name": "稱霸世界之蒼狼王 成吉思汗",
+    "aliases": [
+      "成吉思汗"
+    ],
+    "attribute": "木",
+    "race": [
+      "魔人"
+    ],
+    "class": "力量型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2014,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.5641",
+    "name": "亡命兔Inc.【R】",
+    "aliases": [
+      "亡命兔",
+      "亡命兔Inc【R】"
+    ],
+    "attribute": "木",
+    "race": [
+      "妖精"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7318",
+    "name": "傳遞祝福的聖告大天使 加百列",
+    "aliases": [
+      "天使",
+      "木天",
+      "加百列"
+    ],
+    "attribute": "木",
+    "race": [
+      "妖精"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8764",
+    "name": "超越次元的森之英雄 羅賓漢",
+    "aliases": [
+      "羅賓漢"
+    ],
+    "attribute": "木",
+    "race": [
+      "聖騎士"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7700",
+    "name": "療癒世界的提燈聖天使 南丁格爾",
+    "aliases": [
+      "南丁",
+      "南丁格爾"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7566",
+    "name": "享受仙界的攏絡人心仙女 西施",
+    "aliases": [
+      "西施"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8758",
+    "name": "覺醒之秩序的大天使 薩基爾",
+    "aliases": [
+      "天使",
+      "木天",
+      "薩基爾"
+    ],
+    "attribute": "木",
+    "race": [
+      "妖精"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8954",
+    "name": "轟動天下的純粹大盜 石川五右衛門",
+    "aliases": [
+      "大盜",
+      "石川五右衛門"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7732",
+    "name": "守護國家的決意之龍皇帝 劉邦",
+    "aliases": [
+      "皇帝",
+      "劉邦"
+    ],
+    "attribute": "木",
+    "race": [
+      "武士"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2019,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6584",
+    "name": "守護愛妻的賢哲埃及之王 圖坦卡門",
+    "aliases": [
+      "圖坦卡門"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2019,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9476",
+    "name": "被羈絆環抱的希望器皿 比娜",
+    "aliases": [
+      "比娜"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9473",
+    "name": "澄明的風之天下五劍 三日月宗近",
+    "aliases": [
+      "木刀",
+      "三日月宗近"
+    ],
+    "attribute": "木",
+    "race": [
+      "武士"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7140",
+    "name": "宇宙太平之搖滾 幕末Resurrection",
+    "aliases": [
+      "樂團",
+      "木團",
+      "幕末",
+      "Resurrection",
+      "幕末Resurrection"
+    ],
+    "attribute": "木",
+    "race": [
+      "武士"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6906",
+    "name": "傳達心意的邪馬台國守護神 麻穗呂芭",
+    "aliases": [
+      "麻穗呂芭"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.5827",
+    "name": "「覺醒天使」 花音",
+    "aliases": [
+      "天使",
+      "花音"
+    ],
+    "attribute": "木",
+    "race": [
+      "妖精"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.5828",
+    "name": "「人造天使」 花音",
+    "aliases": [
+      "天使",
+      "花音"
+    ],
+    "attribute": "木",
+    "race": [
+      "妖精"
+    ],
+    "class": "速度型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.5923",
+    "name": "仰慕英雄的決意公主 安朵美達",
+    "aliases": [
+      "安朵美達"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9341",
+    "name": "淨化靈魂的星海巫者 波菈里絲",
+    "aliases": [
+      "福瑞",
+      "獸控",
+      "波菈里絲"
+    ],
+    "attribute": "木",
+    "race": [
+      "外星"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6411",
+    "name": "招福女孩樂團 惠比天少女組。",
+    "aliases": [
+      "樂團",
+      "木團",
+      "惠比天",
+      "惠比天少女組"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6739",
+    "name": "八雲:大荒神武裝",
+    "aliases": [
+      "八雲",
+      "反射八雲"
+    ],
+    "attribute": "木",
+    "race": [
+      "聖騎士"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.6740",
+    "name": "八雲:巫女姬靈裝",
+    "aliases": [
+      "八雲",
+      "貫通八雲"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7077",
+    "name": "傳遞歡喜的「音學女神」 繆思",
+    "aliases": [
+      "繆思"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7078",
+    "name": "孕育未來的「希望女神」",
+    "aliases": [
+      "繆思"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "力量型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7282",
+    "name": "凜然的幕末狙擊手 新島八重",
+    "aliases": [
+      "新島",
+      "八重",
+      "新島八重"
+    ],
+    "attribute": "木",
+    "race": [
+      "武士"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7562",
+    "name": "顯現自地獄的貴公子 塔耳塔羅斯",
+    "aliases": [
+      "塔爾塔羅斯"
+    ],
+    "attribute": "木",
+    "race": [
+      "神"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7785",
+    "name": "奈特梅雅:夢境風格",
+    "aliases": [
+      "奈特",
+      "奈特梅雅"
+    ],
+    "attribute": "木",
+    "race": [
+      "魔族"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.7786",
+    "name": "奈特梅雅:旅行風格",
+    "aliases": [
+      "奈特",
+      "奈特梅雅"
+    ],
+    "attribute": "木",
+    "race": [
+      "魔族"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8165",
+    "name": "瓦妮妲絲:惡魔獵手",
+    "aliases": [
+      "瓦妮",
+      "瓦妮妲絲"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8166",
+    "name": "瓦妮妲絲:虛無之人",
+    "aliases": [
+      "瓦妮",
+      "瓦妮妲絲"
+    ],
+    "attribute": "木",
+    "race": [
+      "魔族"
+    ],
+    "class": "力量型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8502",
+    "name": "心靈閃耀的星之王子 艾特華爾",
+    "aliases": [
+      "王子",
+      "小王子",
+      "艾特華爾"
+    ],
+    "attribute": "木",
+    "race": [
+      "外星"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8686",
+    "name": "尼姬:勝利型態",
+    "aliases": [
+      "尼姬"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8687",
+    "name": "尼姬:榮光型態",
+    "aliases": [
+      "尼姬"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.8858",
+    "name": "與命運訣別的預言巫女 阿伽斯提亞",
+    "aliases": [
+      "阿伽",
+      "阿伽斯提亞"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "力量型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9098",
+    "name": "未來:防衛AI",
+    "aliases": [
+      "未來"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9099",
+    "name": "未來:和平AI",
+    "aliases": [
+      "未來"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9331",
+    "name": "等身大的最強女子團體 CALEzMA",
+    "aliases": [
+      "樂團",
+      "木團",
+      "CALEzMA"
+    ],
+    "attribute": "木",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "G_No.9409",
+    "name": "率領百鬼夜行的半妖少女 九十九",
+    "aliases": [
+      "99",
+      "九九",
+      "九十九"
+    ],
+    "attribute": "木",
+    "race": [
+      "魔人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
     "id": "L_No.7333",
     "name": "真獸神 神帝史特萊克",
     "aliases": [
