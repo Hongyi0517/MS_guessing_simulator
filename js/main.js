@@ -19,19 +19,60 @@ input.addEventListener("input", () => {
 
   datalist.innerHTML = "";
 
-  if (!keyword) return;
+  if (!keyword) {
+    datalist.style.display = "none";
+    return;
+  }
 
   const matchedMonsters = monsters.filter(monster => {
-    return monster.name.includes(keyword) ||
-      (monster.aliases || []).some(alias => alias.includes(keyword));
+    const nameMatch = monster.name.includes(keyword);
+
+    const aliasMatch = (monster.aliases || []).some(alias =>
+      alias.includes(keyword)
+    );
+
+    return nameMatch || aliasMatch;
   });
 
+  if (!matchedMonsters.length) {
+    datalist.style.display = "none";
+    return;
+  }
+
   for (const monster of matchedMonsters) {
-    const option = document.createElement("option");
-    option.value = monster.name;
+    const option = document.createElement("div");
+    option.className = "character-option";
+
+    const name = document.createElement("div");
+    name.className = "character-option-name";
+    name.textContent = monster.name;
+
+    const aliases = document.createElement("div");
+    aliases.className = "character-option-aliases";
+    aliases.textContent = (monster.aliases || []).join("・") || "沒有別名";
+
+    option.append(name, aliases);
+
+    option.addEventListener("click", () => {
+      input.value = monster.name;
+      datalist.innerHTML = "";
+      datalist.style.display = "none";
+    });
+
     datalist.append(option);
   }
+
+  datalist.style.display = "block";
 });
+document.addEventListener("click", event => {
+  if (
+    !input.contains(event.target) &&
+    !datalist.contains(event.target)
+  ) {
+    datalist.style.display = "none";
+  }
+});
+
 const form = $("#guess-form");
 const results = $("#results");
 const message = $("#message");

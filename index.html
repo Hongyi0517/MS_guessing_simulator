@@ -33,11 +33,19 @@
     <section class="play-panel">
       <form id="guess-form" autocomplete="off">
         <label for="character-input">輸入角色名稱</label>
-        <div class="search-row">
-          <input id="character-input" list="character-options" placeholder="例如：角色名稱" required>
-          <datalist id="character-options"></datalist>
-          <button type="submit" id="guess-button">猜測</button>
-        </div>
+          <div class="search-row">
+            <div class="search-container">
+              <input
+                id="character-input"
+                placeholder="例如：角色名稱"
+                required
+                autocomplete="off"
+              >
+              <div id="character-options" class="character-options"></div>
+            </div>
+            
+            <button type="submit" id="guess-button">猜測</button>
+          </div>
         <p class="hint">請從角色清單選擇有效角色；同一角色的不同型態視為同一個答案。</p>
       </form>
 
