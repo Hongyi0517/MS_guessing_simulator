@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171923">
+  <title>怪物彈珠猜猜樂</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">MS</span>
+      <div><h1>怪物彈珠猜猜樂</h1><p>怪物彈珠猜角色</p></div>
+    </div>
+    <nav class="mode-tabs" aria-label="遊戲模式">
+      <button class="mode-tab active" data-mode="daily">每日挑戰</button>
+      <button class="mode-tab" data-mode="unlimited">無限模式</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <p class="eyebrow" id="mode-eyebrow">DAILY CHALLENGE</p>
+      <h2 id="mode-title">今日挑戰</h2>
+      <p id="mode-description">每天一題，最多猜測 8 次。</p>
+      <div class="status-row">
+        <span id="date-label"></span>
+        <span class="attempt-counter">猜測次數 <strong id="attempt-count">0</strong> / 8</span>
+      </div>
+    </section>
+
+    <section class="play-panel">
+      <form id="guess-form" autocomplete="off">
+        <label for="character-input">輸入角色名稱</label>
+        <div class="search-row">
+          <input id="character-input" list="character-options" placeholder="例如：角色名稱" required>
+          <datalist id="character-options"></datalist>
+          <button type="submit" id="guess-button">猜測</button>
+        </div>
+        <p class="hint">請從角色清單選擇有效角色；同一角色的不同型態視為同一個答案。</p>
+      </form>
+
+      <div id="message" class="message" role="status" aria-live="polite">載入角色資料中…</div>
+
+      <div class="legend">
+        <span><i class="swatch exact"></i>相同</span>
+        <span><i class="swatch partial"></i>部分符合</span>
+        <span><i class="swatch wrong"></i>不同</span>
+        <span><b>↑ / ↓</b> 年份方向</span>
+      </div>
+
+      <div class="table-wrap">
+        <table class="result-table">
+          <thead>
+            <tr>
+              <th>角色</th><th>屬性</th><th>種族</th><th>戰型</th>
+              <th>擊種類型</th><th>稀有度</th><th>推出年份</th><th>獲取方式</th>
+            </tr>
+          </thead>
+          <tbody id="results"></tbody>
+        </table>
+      </div>
+
+      <div class="end-panel hidden" id="end-panel">
+        <h3 id="end-title"></h3>
+        <p id="end-description"></p>
+        <button id="restart-button" class="secondary-button">再玩一局</button>
+      </div>
+    </section>
+
+    <footer>
+      <p>非官方粉絲作品，與 MIXI／怪物彈珠官方無隸屬關係。角色資料與圖片請確認使用規範。</p>
+    </footer>
+  </main>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

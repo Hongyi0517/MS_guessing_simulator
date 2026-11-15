@@ -1,0 +1,20 @@
+{
+  "maxAttempts": 8,
+  "region": "TW",
+  "timezone": "Asia/Taipei",
+  "gameModes": [
+    "daily",
+    "unlimited"
+  ],
+  "comparisonFields": [
+    "attribute",
+    "race",
+    "class",
+    "hitType",
+    "rarity",
+    "releaseYear",
+    "obtainMethod"
+  ],
+  "dailyEpoch": "2026-01-01",
+  "dataVersion": 1
+}
