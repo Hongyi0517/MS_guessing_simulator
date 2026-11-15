@@ -874,6 +874,966 @@
     "obtainMethod": "限定角色"
   },
   {
+    "id": "No.7901",
+    "name": "絕無極限的英雄大帝 拿破崙",
+    "aliases": [
+      "拿破崙"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改",
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2014,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9199",
+    "name": "寧靜的蒼海聖母 媽祖",
+    "aliases": [
+      "媽祖"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改",
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2015,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8947",
+    "name": "清澄的大天使 拉法葉",
+    "aliases": [
+      "天使",
+      "水天",
+      "拉法葉"
+    ],
+    "attribute": "水",
+    "race": [
+      "妖精"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改",
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2015,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7147",
+    "name": "引導至勝利之天子 天草四郎時貞",
+    "aliases": [
+      "天子",
+      "天草",
+      "天草四郎時貞"
+    ],
+    "attribute": "水",
+    "race": [
+      "聖騎士"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2015,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6879",
+    "name": "蘊藏四龍之力的英雄 沙悟淨",
+    "aliases": [
+      "英雄",
+      "沙悟淨"
+    ],
+    "attribute": "水",
+    "race": [
+      "魔人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2015,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9479",
+    "name": "高貴的真法國之王 達太喵",
+    "aliases": [
+      "達太喵"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改",
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9175",
+    "name": "守護世間生命的救世神 諾亞",
+    "aliases": [
+      "諾亞"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2016,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8020",
+    "name": "解放宇宙的恐怖大王 諾斯特拉達姆斯",
+    "aliases": [
+      "阿巴阿巴",
+      "大王",
+      "諾斯特拉達姆斯"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2017,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7476",
+    "name": "相信羈絆未來的救贖眾生之人 彌勒",
+    "aliases": [
+      "彌勒"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2017,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8756",
+    "name": "覺醒之幻視的大天使 雷米爾",
+    "aliases": [
+      "天使",
+      "水天",
+      "雷米爾"
+    ],
+    "attribute": "水",
+    "race": [
+      "妖精"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.77331",
+    "name": "破壞國家的災厄神魔將 項羽",
+    "aliases": [
+      "將軍",
+      "項羽"
+    ],
+    "attribute": "水",
+    "race": [
+      "魔王"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.5835",
+    "name": "引領前往真實十誡之人 摩西",
+    "aliases": [
+      "摩西"
+    ],
+    "attribute": "水",
+    "race": [
+      "魔人"
+    ],
+    "class": "速度型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2018,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6993",
+    "name": "引領安寧的潔淨海神 綿津見",
+    "aliases": [
+      "綿津見"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2019,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7139",
+    "name": "光芒中振翅翱翔的Angely Diva 天使歌姬",
+    "aliases": [
+      "樂團",
+      "水團",
+      "天使團",
+      "天使歌姬"
+    ],
+    "attribute": "水",
+    "race": [
+      "妖精"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2019,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6582",
+    "name": "撼動靈魂之降伏業魔的魔法童女 風神雷神",
+    "aliases": [
+      "雙子",
+      "風神",
+      "雷神",
+      "風神雷神"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9472",
+    "name": "流麗的水之天下五劍 童子切安綱",
+    "aliases": [
+      "水刀",
+      "童子切安綱"
+    ],
+    "attribute": "水",
+    "race": [
+      "武士"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7322",
+    "name": "做出決斷的命運選擇者 哈磊露亞",
+    "aliases": [
+      "哈雷露亞",
+      "哈磊露亞"
+    ],
+    "attribute": "水",
+    "race": [
+      "聖騎士"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "進化",
+      "神化",
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2020,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "8273",
+    "name": "平息天災的五榖仙帝 神農",
+    "aliases": [
+      "神農"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "速度型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.5457",
+    "name": "不死的靈藥 甘露",
+    "aliases": [
+      "甘露"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7482",
+    "name": "否定悲劇之希望的聖皇女 安娜塔西亞",
+    "aliases": [
+      "安娜",
+      "安娜塔西亞"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2021,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8598",
+    "name": "妮奧:Resonance模式",
+    "aliases": [
+      "妮奧",
+      "尼奧"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化・改",
+    "forms": [
+      "獸神化",
+      "獸神化・改"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6120",
+    "name": "守護北方大地的巫女 琵莉卡",
+    "aliases": [
+      "巫女",
+      "琵莉卡"
+    ],
+    "attribute": "水",
+    "race": [
+      "武士"
+    ],
+    "class": "力量型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6482",
+    "name": "引起變革的「吟詠者」 千早",
+    "aliases": [
+      "千早"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "力量型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.6483",
+    "name": "使心意相通的「連繫者」 千早",
+    "aliases": [
+      "千早"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2022,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7052",
+    "name": "闊步霸者之道的傳說王者 查里曼",
+    "aliases": [
+      "查里曼"
+    ],
+    "attribute": "水",
+    "race": [
+      "聖騎士"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7453",
+    "name": "辛基爾提:定罪",
+    "aliases": [
+      "辛基爾提",
+      "龍"
+    ],
+    "attribute": "水",
+    "race": [
+      "龍"
+    ],
+    "class": "力量型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7454",
+    "name": "辛基爾提:赦罪",
+    "aliases": [
+      "辛基爾提",
+      "龍"
+    ],
+    "attribute": "水",
+    "race": [
+      "龍"
+    ],
+    "class": "平衡型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2023,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7569",
+    "name": "賜予良緣的結緣之神 月下老人",
+    "aliases": [
+      "月老",
+      "月下老人"
+    ],
+    "attribute": "水",
+    "race": [
+      "神"
+    ],
+    "class": "速度型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.7860",
+    "name": "超次元系樂團 告別重力",
+    "aliases": [
+      "樂團",
+      "水團",
+      "重力團",
+      "告別重力"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8005",
+    "name": "久遠:死神",
+    "aliases": [
+      "久遠"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "速度型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8006",
+    "name": "久遠:再會",
+    "aliases": [
+      "久遠"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2024,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8353",
+    "name": "藝術的「再生者」 盧涅桑絲",
+    "aliases": [
+      "文藝復興",
+      "盧涅",
+      "盧涅桑絲"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "平衡型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8354",
+    "name": "藝術的「復興者」 盧涅桑絲",
+    "aliases": [
+      "文藝復興",
+      "盧涅",
+      "盧涅桑絲"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.8747",
+    "name": "機械系偶像 仿生甜心美式餐廳",
+    "aliases": [
+      "樂團",
+      "水團",
+      "仿生團",
+      "仿生甜心美式餐廳"
+    ],
+    "attribute": "水",
+    "race": [
+      "機械"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2025,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9069",
+    "name": "絕世魅惑偶像 東方萌萌美人",
+    "aliases": [
+      "樂團",
+      "水團",
+      "東方",
+      "萌萌團",
+      "我愛我",
+      "東方萌萌美人"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "反射聚能",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9234",
+    "name": "伊波妮&艾波莉:奇異拍檔",
+    "aliases": [
+      "雙波",
+      "伊波妮",
+      "艾波莉",
+      "伊波妮&艾波莉"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通聚能",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9235",
+    "name": "伊波妮&艾波莉:信賴拍檔",
+    "aliases": [
+      "雙波",
+      "伊波妮",
+      "艾波莉",
+      "伊波妮&艾波莉"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "速度型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "真獸神化",
+    "forms": [
+      "真獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9446",
+    "name": "颯克麗法絲:代理復仇",
+    "aliases": [
+      "法克女",
+      "理髮師",
+      "颯克麗法絲"
+    ],
+    "attribute": "水",
+    "race": [
+      "亞人"
+    ],
+    "class": "力量型",
+    "hitType": "反射",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
+    "id": "No.9447",
+    "name": "颯克麗法絲:魔獸附身",
+    "aliases": [
+      "法克女",
+      "理髮師",
+      "颯克麗法絲"
+    ],
+    "attribute": "水",
+    "race": [
+      "魔人"
+    ],
+    "class": "砲擊型",
+    "hitType": "貫通",
+    "rarity": 6,
+    "comparisonForm": "獸神化",
+    "forms": [
+      "獸神化"
+    ],
+    "active": true,
+    "isDemo": true,
+    "releaseYear": 2026,
+    "obtainMethod": "限定角色"
+  },
+  {
     "id": "No.8627",
     "name": "黎明的太陽神 阿波羅X",
     "aliases": [
