@@ -1,4 +1,4 @@
-# 怪物彈珠 Wordle
+# 怪物彈珠猜測模擬器
 
 純前端網站：HTML + CSS + JavaScript + JSON，可直接部署至 GitHub Pages。
 
@@ -31,22 +31,11 @@
 - `active`：`true` 納入遊戲角色池；`false` 不納入
 - `isDemo`：示範資料標記，不影響遊戲邏輯
 
-內附少量虛構示範資料，均為 `isDemo: true`，請勿當成真實角色資料。正式公開前請自行替換並核對台版資料。所有正式角色資料都要符合上述欄位與允許值。
-
 ## 本機測試
 在專案根目錄執行：
 `python -m http.server 8000`
 瀏覽 `http://localhost:8000`。
 不要直接用 `file://` 開啟，因為網站會使用 ES Modules 和 fetch 讀取 JSON。
-
-## GitHub Pages 部署
-1. 在 GitHub 建立新的 Repository。
-2. 解壓縮 ZIP，將 `monster-strike-wordle` 資料夾內的所有檔案與資料夾上傳到 Repository 根目錄（不要只上傳外層資料夾）。
-3. 確認 `index.html` 位於 Repository 根目錄。
-4. 進入 Repository 的 Settings → Pages。
-5. 在 Build and deployment 的 Source 選 `Deploy from a branch`。
-6. Branch 選 `main`，資料夾選 `/(root)`，按 Save。
-7. 等待部署完成，在 Pages 頁面按 Visit site 開啟網站。
 
 ## 注意事項
 - GitHub Pages 是靜態網站託管，角色 JSON 與每日答案可被訪客透過瀏覽器檢視，無法防止查看答案。
